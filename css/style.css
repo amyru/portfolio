@@ -1,4 +1,10 @@
 /*header*/
+.logo {
+    width: 25%;
+    margin-right: 2%;
+    /* margin-bottom: 2%; */
+    margin-top: -3%;
+}
 
 header {
 	background-image: url("../img/orange.svg");
