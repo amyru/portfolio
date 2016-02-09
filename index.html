@@ -153,7 +153,7 @@
                 <h5><span>SQL</span></h5>                                             
             </div>
             <div>
-                <h5><span>Postgress</span></h5>                                         
+                <h5><span>Click Me</span></h5>                                         
             </div>      
         </div><!-- sb-container -->
     </section>
@@ -168,10 +168,9 @@
                     <div class="thumbnail">
                         <img class="skillIcon" src="img/code_icon.png" alt="...">
                         <div class="caption">
-                           Wordpress<br>
-                           Unix<br>
-                           ReST<br>
-                           Git<br>
+                           Postgress > Wordpress <br>
+                           Unix > ReST<br>
+                           Git
                         </div>
                     </div>
                 </div>
@@ -180,7 +179,7 @@
                         <img class="skillIcon" src="img/designer_icon.png" alt="...">              
                         <div class="caption">
                             User Experience<br>
-                            UI Design<br><br><br>
+                            UI Design<br><br>
                         </div>
                     </div>
                 </div>
@@ -190,7 +189,7 @@
                         <div class="caption">
                             Editing<br>
                             Copy Writing<br>
-                            Growth Hacking and SEO<br><br>
+                            Growth Hacking and SEO<br>
                         </div>
                     </div>
                 </div>
@@ -341,11 +340,25 @@
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.swatchbook.js"></script>
     <script type="text/javascript">
+        // $(function() {
+        
+        //     $( '#sb-container' ).swatchbook();
+        
+        // });
         $(function() {
-        
-            $( '#sb-container' ).swatchbook();
-        
-        });
+            
+                $( '#sb-container' ).swatchbook( {
+                    // number of degrees that is between each item
+                    angleInc : 15,
+                    neighbor : 15,
+                    // if it should be closed by default
+                    initclosed : true,
+                    // index of the element that when clicked, triggers the open/close function
+                    // by default there is no such element
+                    closeIdx : 11
+                } );
+            
+            });
     </script>
 
 
