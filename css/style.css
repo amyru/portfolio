@@ -1,3 +1,9 @@
+/*SKILLS SECTION HEADING*/
+.section-heading{
+	text-align: center;
+}
+
+/* SWATCHBOOK SKILLS*/
 .sb-container {
 	position: relative;
 	width: 150px;
@@ -115,12 +121,33 @@
     left: 0px;
     color: #111;
     text-shadow: -1px -1px 1px rgba(255,255,255,0.1);
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     transform: rotate(-90deg) translateX(-113%) translateY(20px);
     transform-origin: 0 0;
     user-select: none;
 }
 
 .sb-container div:nth-child(-n+6) h5 {
-    transform: rotate(90deg) translateX(11%) translateY(-25px) !important;
+    transform: rotate(90deg) translateX(11%) translateY(-35px) !important;
+}
+
+/* extra skills*/
+.skillIcon{
+	width: 110px;
+}
+
+.thumbnail {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-size: 18px;
+    padding-top: 5%;
+    /*border: none;*/
+    text-align: center;
+}
+
+.thumbnail li {
+	/*margin-left: 20%;*/
+}
+
+.thumbnail li:first-child {
+	margin-top: 5%;
 }
