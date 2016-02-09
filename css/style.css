@@ -1,3 +1,23 @@
+/*header*/
+
+header {
+	background-image: url("../img/orange.svg");
+}
+
+header .header-content .header-content-inner h1 {
+	/*font-family: 'Raleway';*/
+	font-weight: lighter;
+	font-size: 100px !important;
+	/*color: black;*/
+}
+
+header .header-content .header-content-inner p{
+	font-weight: normal;
+	font-size: 28px;
+	text-align: left;
+	/*color: blue;*/
+}
+
 /*SKILLS SECTION HEADING*/
 .section-heading{
 	text-align: center;
