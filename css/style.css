@@ -1,9 +1,19 @@
 /*header*/
 .logo {
-    width: 25%;
+    width: 20%;
     margin-right: 2%;
     /* margin-bottom: 2%; */
     margin-top: -3%;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+	color: #716F6F;
+	font-weight: lighter;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand{
+	color: #716F6F;
+	font-weight: lighter;
 }
 
 header {
