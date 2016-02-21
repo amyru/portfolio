@@ -24,14 +24,40 @@ header .header-content .header-content-inner h1 {
 	/*font-family: 'Raleway';*/
 	font-weight: lighter;
 	font-size: 100px !important;
-	/*color: black;*/
+	color: white;
 }
 
 header .header-content .header-content-inner p{
 	font-weight: normal;
 	font-size: 28px;
 	text-align: left;
-	/*color: blue;*/
+	color: white;
+}
+
+.container-fluid{
+    margin-bottom: 0.7%;
+}
+
+img.amy {
+	width: 60%;
+	margin-bottom: 2%;
+}
+
+.btn {
+    border-radius: 5px;
+}
+
+/* photo of me*/
+
+.me {
+	width: 20%;
+	margin-bottom: 2%;
+}
+
+.btn.btn-default.btn-xl.skills{
+	color: white;
+	background-color: #f05f40;
+	border: 1px solid #CCADAD;
 }
 
 /*SKILLS SECTION HEADING*/
