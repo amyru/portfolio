@@ -7,7 +7,7 @@
 }
 
 .navbar-default .navbar-header .navbar-brand {
-	color: #716F6F;
+	color: #fff;
 	font-weight: lighter;
 }
 
@@ -17,19 +17,19 @@
 }
 
 header {
-	background-image: url("../img/orange.svg");
+	background: grey;
 }
 
 header .header-content .header-content-inner h1 {
 	/*font-family: 'Raleway';*/
 	font-weight: lighter;
-	font-size: 100px !important;
+	font-size: 80px !important;
 	color: white;
 }
 
 header .header-content .header-content-inner p{
 	font-weight: normal;
-	font-size: 28px;
+	font-size: 30px;
 	text-align: left;
 	color: white;
 }
@@ -47,17 +47,30 @@ img.amy {
     border-radius: 5px;
 }
 
-/* photo of me*/
-
-.me {
-	width: 20%;
-	margin-bottom: 2%;
+.header-content {
+	/*background: grey;*/
 }
 
-.btn.btn-default.btn-xl.skills{
-	color: white;
-	background-color: #f05f40;
-	border: 1px solid #CCADAD;
+/* section bg-primary*/
+
+.bg-primary {
+	background-image: url("../img/finasafe.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	height: 80%;
+}
+
+/* section tpscrt */
+
+.tpscrt{
+	background-image: url("../img/tpst.png");
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	height: 80%;
 }
 
 /*SKILLS SECTION HEADING*/
