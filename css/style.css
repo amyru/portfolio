@@ -34,22 +34,31 @@ header .header-content .header-content-inner p{
 	color: white;
 }
 
+.header-btn {
+  border: solid white 2px;
+  /*background: rgba(0, 0, 0, 0.52);*/
+  background: transparent;
+  color: #fff;
+}
+
+.header-btn:hover{
+	background: transparent;
+	border: solid #012A68 2px;
+}
+
 .container-fluid{
     margin-bottom: 0.7%;
 }
 
-img.amy {
+/*img.amy {
 	width: 60%;
 	margin-bottom: 2%;
-}
+}*/
 
 .btn {
     border-radius: 5px;
 }
 
-.header-content {
-	/*background: grey;*/
-}
 
 /* section bg-primary*/
 
@@ -62,16 +71,53 @@ img.amy {
 	height: 80%;
 }
 
+.finasafe-header {
+	font-weight: 100;
+	margin-top: 13%;
+	margin-bottom: 5%;
+}
+
 /* section tpscrt */
 
 .tpscrt{
-	background-image: url("../img/tpst.png");
+	background-image: url("../img/tpscrt.png");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 	height: 80%;
 }
+
+.tpscrt-btn {
+	border: solid #012A68 2px;
+	color: #012A68;
+	background: transparent;
+	margin-top: 50%;
+}
+
+/* section PS */
+.ps{
+	background: #EE3135;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	height: 80%;
+	color: white; 
+}
+
+.ps-btn {
+	border: solid white 2px;
+	color: white;
+	background: transparent;
+	margin-top: 10%;
+}
+
+.ps-image {
+	  /*margin-top: 3%;*/
+    width: 30%;
+}
+
 
 /*SKILLS SECTION HEADING*/
 .section-heading{
