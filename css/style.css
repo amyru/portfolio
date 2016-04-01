@@ -102,7 +102,7 @@ header .header-content .header-content-inner p{
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 80%;
+	height: 90%;
 	color: white; 
 }
 
@@ -110,11 +110,42 @@ header .header-content .header-content-inner p{
 	border: solid white 2px;
 	color: white;
 	background: transparent;
-	margin-top: 10%;
+	margin-top: 6%;
 }
 
 .ps-image {
-	  /*margin-top: 3%;*/
+	  margin-top: -4%;
+    width: 30%;
+}
+
+.chrome{
+	width: 20%;
+	margin-right: 2%;
+	margin-top: 2%;
+}
+
+.firefox{
+	width: 15%;
+	margin-top: 2.5%;
+}
+
+/* Section Privacy Shell */
+
+.pshell{
+	background: #fc580c;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	height: 90%;
+	color: white; 
+}
+
+.pshell-logo {
+	width: 50%;
+}
+
+img.pshell-image {
     width: 30%;
 }
 
