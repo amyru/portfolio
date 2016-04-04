@@ -379,3 +379,34 @@ h2.fin-title{
 	color: white;
 	padding: 0;
 }
+
+.fin-image {
+	-moz-box-shadow: 0 0 100px #888;
+	-webkit-box-shadow: 0 0 100px #888;
+	box-shadow: 0px 0px 100px #888;
+}
+
+.email-integration {
+	margin-top: 600%;
+}
+
+.finasafe-video {
+	margin: 5%;
+}
+
+.block-video {
+	margin-top: 10%;
+}
+
+/*@media (min-width: 1300px;){
+	.exp-block{
+		display: block !important;
+	}
+}
+
+@media (max-width: 1000px;){
+	.exp-block{
+		display: none !important;
+	}
+}
+*/

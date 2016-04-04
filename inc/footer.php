@@ -25,6 +25,7 @@
     <script src="js/creative.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.swatchbook.js"></script>
+    <script type="text/javascript" src="js/custom.js"></script>
     <script type="text/javascript">
         // $(function() {
         
