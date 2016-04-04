@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h1 class="finasafe-header">Decentralized email encryption using the Blockchain</h1>
-                    <a href="finasafe.html" class="header-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
+                    <a href="finasafe.php" class="header-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
                 </div>
             </div>
         </div>

@@ -354,3 +354,28 @@ img.pshell-image {
 #contact {
 	background: rgb(255, 87, 0);
 }
+
+/***** FINASAFE PAGE ******/
+
+header.finasafe-top {
+	background-image: url('../img/blockchain.png');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	margin-top: 0;
+	color: white;
+}
+
+h2.fin-title{
+	font-size: 60px !important;
+	margin-bottom: 30%;
+	font-weight: lighter;
+}
+
+.about-finasafe {
+	height: 40%;
+	background: #003653;
+	color: white;
+	padding: 0;
+}
