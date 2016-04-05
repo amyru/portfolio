@@ -3,8 +3,9 @@
 	<header class="finasafe-top">
         <div class="header-content">
             <div class="header-content-inner">
-                <div class=".col-md-6 .col-md-offset-3">
-				<h2 class="fin-title">Decentralized Email Encryption has arrived</h2>
+                <div class="col-md-10 col-md-offset-1">
+            		Created with <img class="pshellFinasafe" src="img/privacyshell.png">
+					<h2 class="fin-title">Decentralized Email Encryption has arrived</h2>
                 </div>
                 
             </div>
@@ -53,17 +54,22 @@
 		    		<iframe src="https://player.vimeo.com/video/155018751" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 				</div>
 			</div>
-			<div class="col-md-3 col-offset-2">
-				<h3>Blockchain explained</h3>
+			<div class="col-md-5 col-offset-2">
+				<h3>Check out the video on Blockchain Technology</h3><br>
+				<p>This is an animated video for marketing purposes. It offeres an easy explanation of the blockchain to install trust in the Finasafe product. I made use of Powtoon and Sketch when creating this video.</p>
+				<button type="button" class="btn btn-danger ipad">Watch Video</button>
 			</div>
 		</div>
 		<div class="row">
-	    	<div class="block-video col-md-6 col-offset-8">
+			<div class="block-video col-md-5 col-offset-2">
+				<h3>How to use Finasafe</h3><br>
+				<p>A 32 second video explaining how to use Finasafe with your current email provider. The app demo was created with Invision and then filmed as a screencast.</p>
+			</div>
+	    	<div class="block-video col-md-6">
 	    		<iframe src="https://player.vimeo.com/video/161085707" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 	    	</div>
 	   	</div>
     </section>
-
     
 
 <?php include('inc/footer.php'); ?>

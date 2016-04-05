@@ -21,16 +21,16 @@ $(document).ready(function(){
 
 	$(window).resize(function() {
 
-  if ($(this).width() < 1024) {
+	  if ($(this).width() < 1024) {
 
-    $('.exp-block').hide();
+	    $('.exp-block').hide();
 
-  } else {
+	  } else {
 
-    $('.exp-block').show();
+	    $('.exp-block').show();
 
-    }
+	  }
 
-});
+	});
 
 });

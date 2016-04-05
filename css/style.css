@@ -398,6 +398,10 @@ h2.fin-title{
 	margin-top: 10%;
 }
 
+.pshellFinasafe {
+	width: 20%;
+}
+
 /*@media (min-width: 1300px;){
 	.exp-block{
 		display: block !important;
