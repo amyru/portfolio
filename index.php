@@ -32,7 +32,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#skills" class="tpscrt-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
+                    <a href="topsecret.php" class="tpscrt-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
                 </div>
             </div>
         </div>
