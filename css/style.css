@@ -402,6 +402,33 @@ h2.fin-title{
 	width: 20%;
 }
 
+/* TOPSECRET PAGE */
+
+header.topsecret-top {
+	background-image: url('../img/ts.png');
+	background-repeat: no-repeat;
+	background-position: 40%;
+	/*-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;*/
+  background-size: 100%;
+  background-color: #E3E3E3;
+	margin-top: 0;
+	color: white;
+}
+
+.about-ts {
+	height: 40%;
+	background: rgb(17, 19, 86);
+	color: white;
+	padding: 0;
+}
+
+.ts-video {
+	margin-left: 10%;
+}
+
+
 /*@media (min-width: 1300px;){
 	.exp-block{
 		display: block !important;

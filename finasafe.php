@@ -66,7 +66,7 @@
 				<p>A 32 second video explaining how to use Finasafe with your current email provider. The app demo was created with Invision and then filmed as a screencast.</p>
 			</div>
 	    	<div class="block-video col-md-6">
-	    		<iframe src="https://player.vimeo.com/video/161085707?autoplay=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	    		<iframe id="video" src="https://player.vimeo.com/video/161085707" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 	    	</div>
 	   	</div>
     </section>

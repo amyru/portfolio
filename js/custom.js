@@ -35,10 +35,12 @@ $(document).ready(function(){
 
 
 });
-	//mute autoplay video for topsecret.php
-	var iframe = document.getElementsByTagName('iframe')[1];
-	var player = $f( iframe );
 
- 	player.addEvent('ready', function() {
-    player.api('setVolume', 0); 
- 	});
+//mute autoplay video for topsecret.php
+// var iframe = $('#video')[0];
+// // var iframe = document.getElementsByTagName('iframe')[0];
+// var player = $f( iframe );
+ 	
+//  player.addEvent('ready', function() {
+//      player.api('setVolume', 0); 
+//  });
