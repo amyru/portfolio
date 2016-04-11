@@ -28,7 +28,7 @@
         </div>
     </section>
 
-    <section class="tpscrt">
+    <!-- <section class="tpscrt">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -36,7 +36,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="ps">
         <div class="container">
@@ -45,25 +45,24 @@
                     <img class="ps-image" src='img/pslogo.png'><br>
                     <!-- <h1>PrivacySnapper</h1> -->
                     <img class="chrome"src="img/chrome.png"><img class="firefox" src="img/firefox.png"><br> <h3>Extension and Dashboard</h3>
-                    <a href="#skills" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
+                    <a href="ps-extension.php" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="pshell">
+   <!--  <section class="pshell">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <img class="pshell-logo" src='img/privacyshell.png'><br>
                     <img class="pshell-image" src='img/newspaper5.png'>
-                    <!-- <h1>PrivacySnapper</h1> -->
                     <h3>Online Privacy News Site</h3>
                     <a href="#skills" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <section class="D3js">
         <div class="container">

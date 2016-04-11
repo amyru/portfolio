@@ -190,6 +190,28 @@ img.pshell-image {
 	margin-left: -10%;
 }
 
+.ps-ex {
+	width: 100%;
+}
+
+/* ex update*/
+
+.ex-update {
+	/*height: 30%;*/
+	background-color: red;
+	color: white;
+}
+
+.ps-form {
+	width: 100%;
+	margin-left: 10%;
+}
+
+.ux-payment {
+	margin-left: 10%;
+	/*margin-bottom: 5%;*/
+}
+
 
 /*SKILLS SECTION HEADING*/
 .section-heading{
@@ -428,6 +450,27 @@ header.topsecret-top {
 	margin-left: 10%;
 }
 
+
+/* PS PAGE */
+.ps-top {
+	background-image: url('../img/project/ps_large.png');
+	background-repeat: no-repeat;
+	background-position: center;
+/*	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;*/
+  background-size: 70%;
+  background-color: #EE3135;
+	margin-top: 0;
+	color: white;
+}
+
+.about-ps {
+	height: 40%;
+	background: rgb(169, 170, 174);
+	color: white;
+	padding: 0;
+}
 
 /*@media (min-width: 1300px;){
 	.exp-block{
