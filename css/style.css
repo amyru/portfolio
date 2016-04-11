@@ -190,29 +190,6 @@ img.pshell-image {
 	margin-left: -10%;
 }
 
-.ps-ex {
-	width: 100%;
-}
-
-/* ex update*/
-
-.ex-update {
-	/*height: 30%;*/
-	background-color: red;
-	color: white;
-}
-
-.ps-form {
-	width: 100%;
-	margin-left: 10%;
-}
-
-.ux-payment {
-	margin-left: 10%;
-	/*margin-bottom: 5%;*/
-}
-
-
 /*SKILLS SECTION HEADING*/
 .section-heading{
 	text-align: center;
@@ -471,6 +448,50 @@ header.topsecret-top {
 	color: white;
 	padding: 0;
 }
+
+.ps-ex {
+	width: 100%;
+}
+
+/* ex-update*/
+
+.ex-update {
+	/*height: 30%;*/
+	background-color: red;
+	color: white;
+}
+
+.ps-form {
+	width: 100%;
+	margin-left: 10%;
+}
+
+.ux-payment {
+	margin-left: 10%;
+	/*margin-bottom: 5%;*/
+}
+
+/* D3JS PAGE */
+.d3-top{
+	background-image: url('../img/d3jsback.png');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	/*margin-top: 0;*/
+	color: white;
+}
+
+.about-d3 {
+	background-color: rgb(147, 147, 162);
+	color: white;
+}
+
+.d3-page {
+	color: grey;
+	margin-top: 65%;
+}
+
 
 /*@media (min-width: 1300px;){
 	.exp-block{

@@ -20,7 +20,7 @@
 			</div>
 			<div class="col-md-5 col-md-offset-1">
 				<h3>My role</h3>
-				<p>With the Privacy Shell team I added numerouse features to the existing extension dashboard as a software developer. I designed and researched user friendly strategies to increase our user base.</p>
+				<p>With the Privacy Shell team I added numerouse features to the existing extension dashboard as a software developer and UX Designer. I designed and researched user friendly strategies to increase our user base.</p>
 			</div>
 		</div>
 

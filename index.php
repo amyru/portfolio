@@ -69,7 +69,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h3 class="d3-title">D3.js<br> Interactive Map</h3>
-                    <a href="#skills" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
+                    <a href="d3js.php" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
                 </div>
             </div>
         </div>
@@ -81,7 +81,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <img class="travel-img" src='img/travelphotos.png'>
                     <h2 class="travel-header">Photos from my travels with Emirates</h2>
-                    <a href="#skills" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
+                    <a href="d3js.php" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
                 </div>
             </div>
         </div>
