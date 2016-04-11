@@ -16,11 +16,11 @@
 	    	<div class="col-md-4 col-md-offset-1">
 				<h3>About the Project</h3>
 				<!-- <hr class="light left"> -->
-				<p>Finasafe is a decentralized email encryption add on for all major email providers. Finasafe uses ECC, ECDH, AES, and SHA to deliver emails securely. Blockchain technology has the power to create a more secure, fairer, more efficient system.</p>
+				<p>Privacy Snapper is Chrome and Firefox extension. Once installed it collects all the privacy policies and terms of services from the websites a user visits. This was created with the team at Privacy Shell Inc who believe in educating the world wide web on Online Privacy and Security.</p>
 			</div>
 			<div class="col-md-5 col-md-offset-1">
 				<h3>My role</h3>
-				<p>Within the Privacy Shell Inc. team I designed and built the website. I wanted to incorporate aspects of the beautiful Blockchain architecture into the design. I also wrote the copy for the  website and the scripts and visuals for any videos explaining the Finasafe product to potential customers.</p>
+				<p>With the Privacy Shell team I added numerouse features to the existing extension dashboard as a software developer. I designed and researched user friendly strategies to increase our user base.</p>
 			</div>
 		</div>
 
