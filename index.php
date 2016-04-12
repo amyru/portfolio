@@ -81,7 +81,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <img class="travel-img" src='img/travelphotos.png'>
                     <h2 class="travel-header">Photos from my travels with Emirates</h2>
-                    <a href="d3js.php" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
+                    <a href="travelphotos.php" class="ps-btn btn btn-default btn-xl skills page-scroll">View Project Notes</a>
                 </div>
             </div>
         </div>
