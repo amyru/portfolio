@@ -27,6 +27,9 @@
     <script type="text/javascript" src="js/jquery.swatchbook.js"></script>
     <script type="text/javascript" src="js/custom.js"></script>
     <script src="https://f.vimeocdn.com/js/froogaloop2.min.js"></script>
+
+    <script src="js/d3js.js"></script>
+
     <script type="text/javascript">
         // $(function() {
         

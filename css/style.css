@@ -472,13 +472,9 @@ header.topsecret-top {
 }
 
 /* D3JS PAGE */
+
+/* MAP */
 .d3-top{
-	/*background-image: url('../img/d3jsback.png');*/
-	/*-webkit-background-size: cover;
-	-moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;*/
-	/*margin-top: 0;*/
 	background-color: #EAEAFF;
 	color: white;
 }
@@ -491,11 +487,6 @@ div#map{
 	width:50%;
 }
 
-.about-d3 {
-	background-color: rgb(147, 147, 162);
-	color: white;
-}
-
 .d3-page {
 	color: grey;
   text-transform: uppercase;
@@ -503,20 +494,6 @@ div#map{
   font-size: 500%;
   margin: 0;
 }
-
-.before-after {
-	padding: 5%;
-}
-
-.afterAlbers {
-	width: 100%;
-}
-
-/*.ui-slider-horizontal .ui-slider-handle{
-  background: #eee;
-  background: url('hover.png') no-repeat !important;
-  */
-/*}*/
 
 /* tooltip */
 
@@ -583,6 +560,25 @@ div.legend {
   left: 690px;
 }
 
+/* about d3 project */
+
+.about-d3 {
+	background-color: rgb(147, 147, 162);
+	color: white;
+	padding: 0;
+}
+
+.d3-section{
+	padding-bottom: 0;
+}
+
+.before-after {
+	padding: 5%;
+}
+
+.afterAlbers {
+	width: 100%;
+}
 
 /*@media (min-width: 1300px;){
 	.exp-block{
