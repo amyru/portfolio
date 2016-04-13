@@ -55,7 +55,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top"><span><img class="logo" src="img/amyLogoWhite.png"></span>Amy Rudolph</a>
+                <a class="navbar-brand page-scroll" href="index.php"><span><img class="logo" src="img/amyLogoWhite.png"></span>Amy Rudolph</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -65,10 +65,10 @@
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="index.php#portfolio">Portfolio</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#skills">Skills</a>
+                        <a class="page-scroll" href="index.php#skills">Skills</a>
                     </li>
                 </ul>
             </div>
