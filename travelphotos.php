@@ -3,7 +3,7 @@
 	<header class="travel-top">
         <div class="header-content">
             <div class="travel header-content-inner">
-               <img class='travel-header' src="img/iphonephoto.png">
+               <img class='travel-head-image' src="img/iphonephoto.png">
                 
             </div>
         </div>
@@ -11,14 +11,10 @@
 
     <section class="about-travel">
     	<div class="row">
-	    	<div class="col-md-4 col-md-offset-1">
+	    	<div class="col-md-10 col-md-offset-1">
 				<h3>About the Project</h3>
 				<!-- <hr class="light left"> -->
 				<p>After first discovering my love for Ruby and Rails I wanted to build a web app to display my travel photos. I used the devise gem to create an admin section and saved the uploaded images to Amazon S3. The image grid is using the masonry gem, making it automatically responsive to screen size.</p>
-			</div>
-			<div class="col-md-5 col-md-offset-1">
-				<h3>My role</h3>
-				<p>With the Privacy Shell team I added numerouse features to the existing extension dashboard as a software developer and UX Designer. I designed and researched user friendly strategies to increase our user base.</p>
 			</div>
 		</div>
 

@@ -4,6 +4,12 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading"><a href="mailto:amy.rudolph@live.co.uk">Let's Get In Touch!</a></h2>
                     <hr class="light">
+                    <ul id="navlist">
+                        <li id="home"><a href="https://github.com/amyru"></a></li>
+                        <li id="prev"><a href="mailto:amy.rudolph@live.co.uk"></a></li>
+                        <li id="next"><a href="https://twitter.com/amyru1"></a></li>
+                        <li id="linkedin"><a href="https://www.linkedin.com/in/amyru1"></a></li>
+                    </ul>
                 </div>
             </div>
         </div>

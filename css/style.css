@@ -597,7 +597,7 @@ div.legend {
 	color: white;
 }
 
-.travel-header {
+.travel-head-image {
 	width: 125%;
 	margin-top: 20%;
 }
@@ -616,6 +616,58 @@ div.legend {
 .travel-photo {
 	padding-top: 10%;
 	padding-left: 3%;
+}
+
+/* FOOTER */
+
+#navlist {
+  position: relative;
+  margin-left: 34%;
+}
+
+#navlist li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  top: 0;
+}
+
+#navlist li, #navlist a {
+  height: 50px;
+  display: block;
+}
+
+#home {
+  left: 0px;
+  width: 53px;
+  background: url('../img/contacticon.png') 0 0;
+  background-size: 415% 100%;
+  background-repeat: no-repeat;
+}
+
+#prev {
+  left: 58px;
+  width: 55px;
+  background: url('../img/contacticon.png') -57px 0;
+  background-size: 415% 100%;
+  background-repeat: no-repeat;
+}
+
+#next {
+  left: 117px;
+  width: 55px;
+  background: url('../img/contacticon.png') -115px 0;
+  background-size: 415% 100%;
+  background-repeat: no-repeat;
+}
+
+#linkedin {
+  left: 175px;
+  width: 55px;
+  background: url('../img/contacticon.png') -165px 0;
+  background-size: 400% 100%;
+  background-repeat: no-repeat;
 }
 
 /*@media (min-width: 1300px;){
