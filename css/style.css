@@ -51,11 +51,6 @@ header .header-content .header-content-inner p{
     margin-bottom: 0.7%;
 }
 
-/*img.amy {
-	width: 60%;
-	margin-bottom: 2%;
-}*/
-
 .btn {
     border-radius: 5px;
 }
@@ -373,10 +368,11 @@ h2.fin-title{
 }
 
 .about-finasafe {
-	height: 40%;
+	/*height: 40%;*/
 	background: #003653;
 	color: white;
-	padding: 0;
+	padding: 3%;
+	margin: 0;
 }
 
 .fin-image {
@@ -443,10 +439,11 @@ header.topsecret-top {
 }
 
 .about-ps {
-	height: 40%;
+	/*height: 40%;*/
 	background: rgb(169, 170, 174);
 	color: white;
-	padding: 0;
+	padding: 2%;
+	margin: 0;
 }
 
 .ps-ex {
@@ -565,7 +562,7 @@ div.legend {
 .about-d3 {
 	background-color: rgb(147, 147, 162);
 	color: white;
-	padding: 0;
+	padding: 3%;
 }
 
 .d3-section{
@@ -610,7 +607,7 @@ div.legend {
 	margin-top: 20%;
 	background-color: grey;
 	color: white;
-	padding: 2%;
+	padding: 3%;
 }
 
 .travel-photo {
@@ -668,6 +665,26 @@ div.legend {
   background: url('../img/contacticon.png') -165px 0;
   background-size: 400% 100%;
   background-repeat: no-repeat;
+}
+
+
+/* RESPONSIVE BEHAVIOUR */
+
+/* Smartphone */
+@media (max-width: 480px) {
+
+}
+
+@media (max-width: 768px) and (min-width: 300px) {
+
+}
+
+@media (max-width: 958px) and (min-width: 768px){
+
+}
+
+@media (max-width: 1096px){
+
 }
 
 /*@media (min-width: 1300px;){
