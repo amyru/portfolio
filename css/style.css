@@ -1,3 +1,12 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    /*margin: 0px;
+    padding: 0px;*/
+    /*overflow: hidden; */
+}
+
 /*header*/
 .logo {
     width: 15%;
@@ -65,7 +74,7 @@ header .header-content .header-content-inner p{
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 80%;
+	/*height: 80%;*/
 	color: white;
 }
 
@@ -75,6 +84,39 @@ header .header-content .header-content-inner p{
 	margin-bottom: 20%;
 }
 
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.block-video {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+.block-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.fin-image{
+	/*width: 95%;*/
+	margin: 0;
+}
+
+
 /* section tpscrt */
 
 .tpscrt{
@@ -83,7 +125,7 @@ header .header-content .header-content-inner p{
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 80%;
+	/*height: 80%;*/
 }
 
 .tpscrt-btn {
@@ -100,7 +142,7 @@ header .header-content .header-content-inner p{
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 80%;
+	/*height: 80%;*/
 	color: white; 
 }
 
@@ -135,7 +177,7 @@ header .header-content .header-content-inner p{
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 80%;
+	/*height: 80%;*/
 	color: white; 
 }
 
@@ -155,7 +197,7 @@ img.pshell-image {
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 80%; 
+	/*height: 80%; */
 }
 
 .d3-title {
@@ -175,7 +217,7 @@ img.pshell-image {
 	-moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-	height: 80%; 
+	/*height: 80%; */
 	padding-top: 0;
 	color: white;
 }
@@ -671,20 +713,102 @@ div.legend {
 /* RESPONSIVE BEHAVIOUR */
 
 /* Smartphone */
-@media (max-width: 480px) {
+@media (max-width: 440px) {
+
+	header .header-content .header-content-inner h1 {
+		font-size: 40px !important;
+	}
+	header .header-content .header-content-inner p {
+		font-size: 17px;
+		text-align: center;
+	}
+	p.first-p{
+		margin-bottom: 10% !important;
+	}
+
+	.d3-title{
+		font-size: 250%;
+	}
+
+  .my-name{
+  	display: none;
+  }
+
+  section {
+  	padding: 40px 0;
+  }
+
+  section#contact {
+  	padding: 70px 0;
+  }
+	#navlist{
+		margin-left: 16%;
+	}
+
+	.sb-container {
+    position: relative;
+    width: 150px;
+    height: 200px;
+    margin: 30px auto 0 170px;
+	}
+	.sb-container div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60px;
+    background: #fff;
+    height: 200px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: left;
+    background-image: url(../images/fabric.png);
+    transform-origin: 25% 90%;
+    backface-visibility: hidden;
+	}
+	.sb-container div h5 {
+	    font-size: 20px;
+
+	}
+
+	/* FINASAFE PAGE */
+
+	h2.fin-title{
+		font-size: 30px !important;
+
+	}
+
+	.finapage{
+		padding: 0;
+	}
+
+	header.finasafe-top{
+		background-position: -2%;
+	}
 
 }
 
-@media (max-width: 768px) and (min-width: 300px) {
+
+@media (max-width: 768px) {
+	h2.fin-title{
+		margin-bottom: 35%;
+	}
+
 
 }
 
-@media (max-width: 958px) and (min-width: 768px){
-
+@media (max-width: 958px){
+	.exp-block {
+		display: none;
+	}
 }
 
 @media (max-width: 1096px){
+	
 
+	.travel-img {
+	    width: 100%;
+	    margin-left: 0;
+	}
 }
 
 /*@media (min-width: 1300px;){
@@ -698,4 +822,13 @@ div.legend {
 		display: none !important;
 	}
 }
+
+
+/*
+Debug css
 */
+/** {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+}*/

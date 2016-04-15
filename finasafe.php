@@ -29,7 +29,7 @@
     </section>
 
     <section class="notes-finasafe">
-		<div class="row">
+		<!-- <div class="row"> -->
 			<div class="exp-block col-md-2 col-md-offset-1">
 				<h3>Blockchain and Email icons</h3>
 				<p>The image represents the Blockchain architecture and the added paper planes are a well known messenger icon.</p>
@@ -38,11 +38,11 @@
 					<p>Here we are showing the ease of integration with variouse email providers.</p>
 				</div>
 			</div>
-			<div class="col-md-8">
-				<img class="fin-image" src="img/project/finasafe2.png">
+			<div class="col-md-8 finapage">
+				<img class="fin-image img-responsive" src="img/project/finasafe2.png">
 			</div>
 	
-		</div>
+		<!-- </div> -->
 
     </section>
 

@@ -87,12 +87,10 @@
         </div>
     </section>
 
-    <section class="main" id="skills">
-            <div class="row">
-                <h2 class="section-heading">SKILLS</h2>
-                <hr>
-            </div>
-            
+    <section id="skills">    
+        <h2 class="section-heading">SKILLS</h2>
+        <hr>
+
         <div id="sb-container" class="sb-container">
         
             <div>

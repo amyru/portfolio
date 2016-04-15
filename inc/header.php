@@ -75,7 +75,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="index.php"><span><img class="logo" src="img/amyLogoWhite.png"></span>Amy Rudolph</a>
+                <a class="navbar-brand page-scroll" href="index.php"><span><img class="logo" src="img/amyLogoWhite.png"></span><span class="my-name">Amy Rudolph</span></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -85,10 +85,10 @@
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.php#portfolio">Portfolio</a>
+                        <a class="page-scroll" href="https://github.com/amyru">Github</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="index.php#skills">Skills</a>
+                        <a class="page-scroll" href="https://twitter.com/amyru1">Twitter</a>
                     </li>
                 </ul>
             </div>

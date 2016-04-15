@@ -17,21 +17,21 @@ $(document).ready(function(){
 	})
 
 
-	//screen width hide div
+	// //screen width hide div
 
-	$(window).resize(function() {
+	// $(window).resize(function() {
 
-	  if ($(this).width() < 1024) {
+	//   if ($(this).width() < 1024) {
 
-	    $('.exp-block').hide();
+	//     $('.exp-block').css('display', 'none');
 
-	  } else {
+	//   } else {
 
-	    $('.exp-block').show();
+	//     $('.exp-block').show();
 
-	  }
+	//   }
 
-	});
+	// });
 
 
 });
