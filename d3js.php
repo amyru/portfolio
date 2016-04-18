@@ -1,8 +1,9 @@
 <?php include("inc/header.php"); ?>
 	<header class="d3-top">
         <div class="map-size">
-	        <div id="map"></div> 
+	        <div id="map"></div>
         </div>
+	    <img class="phone" src="img/d3jsback.png"> 
 		<h3 class="d3-page">Exploring D3.js</h3>             
     </header>
 
@@ -31,19 +32,13 @@
 		</div>
 
 		<div class="before-after">
-			<div class="row">
-				<div class=" col-md-6 text-center">
-					<h3>AlbersUsa</h3>
-				</div>
-		    	<div class="col-md-6 text-center">
-		    		<h3>After the change</h3>
-		    	</div>
-		   	</div>
-	    	<div class="row">
+			<div class="row text-center">
 		    	<div class="col-md-6">
+					<h3>AlbersUsa</h3>
 		    		<img class="afterAlbers" src="img/albers.png">
 				</div>
 				<div class="col-md-6">
+		    		<h3>After the change</h3>
 					<img class="afterAlbers" src="img/d3jsback.png">
 				</div>
 			</div>

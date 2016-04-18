@@ -1,6 +1,6 @@
 // D3.js Map
 
-var w = 1300;
+var w = 1000;
 var h = 500;
 
 // Parse the date
@@ -21,6 +21,7 @@ var path = d3.geo.path()
 //Create SVG element
 var svg = d3.select("#map")
       .append("svg")
+      .attr("id", "svg")
       .attr("width", w)
       .attr("height", h);
 

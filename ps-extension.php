@@ -29,7 +29,7 @@
     <section class="ts-video">
     	<div class="row">
 	    	<div class="col-md-7">
-	    		<img class="ps-ex" src="img/chromeEx.png">
+	    		<img class="ps-ex img-responsive" src="img/chromeEx.png">
 				</div>
 				<div class="col-md-4">
 					<h3>App Inline Installation</h3><br>
@@ -41,7 +41,7 @@
 					<h3>Firefox add-on</h3><br>
 					<p>Identifying the users chosen browser allowes for a quick and seemless add-on installation. Once installed, this window is replaced by any privacy policies gathered from the websites the user has visited. I also updated the Firefox add-on for the launch of Firefox 40.0</p>
 				</div>
-		    	<div class="col-md-7">
+		    	<div class="col-md-7 img-responsive">
 		    		<img class="ps-ex" src="img/ffEx.png">
 		    	</div>
 		   	</div>
@@ -62,7 +62,7 @@
     <section class="payment-form">
     	<div class="row">
     		<div class="col-md-10">
-				<img class="ps-form" src="img/paymentForm.png">
+				<img class="ps-form img-responsive" src="img/paymentForm.png">
 			</div>
 		</div>
     </section>
@@ -76,7 +76,7 @@
 			<p class="ux-payment text-center">In order for users to find the privacy policies of websites they have visited a little faster, I built a search form for the Privacy Snapper Dashboard. I didnt want it to overpower the design so I lightly placed it at the top next to the logo.</p>
 		</div>
     	<div class="row">
-    		<div class="col-md-10">
+    		<div class="col-md-10 img-responsive">
 				<img class="ps-form" src="img/dashboard.png">
 			</div>
 		</div>

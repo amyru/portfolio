@@ -520,11 +520,21 @@ header.topsecret-top {
 
 div#map{
 	margin-left: 6%;
+	/*width: 100%;*/
 }
 
-.map-size {
-	width:50%;
+.phone{
+	display: none;
 }
+
+/*#svg {
+    width:100%;
+    height: auto;
+}*/
+
+/*.map-size {
+	width:50%;
+}*/
 
 .d3-page {
 	color: grey;
@@ -785,13 +795,89 @@ div.legend {
 		background-position: -2%;
 	}
 
+	/* PS PAGE */
+
+	header.ps-top div.header-content {
+		padding: 200px 15px;
+	}
+
+	.ps-top {
+		background-size: 100%;
+	}
+	.ts-video{
+		margin-left: 0;
+	}
+	.ps-form{
+		margin-left: 0;
+	}
+
+	.row{
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	#map{
+		display: none;
+	}
+
+	.map-size{
+		display: none;
+	}
+
+	.phone{
+		display: block;
+		width: 100%;
+		margin-top: 50px;
+	}
+
+	.d3-page {
+		font-size: 270%;
+    padding-bottom: 2%;
+	}
+
+
+
+
 }
+
 
 
 @media (max-width: 768px) {
 	h2.fin-title{
 		margin-bottom: 35%;
 	}
+
+	#map{
+		display: none;
+	}
+
+	.map-size{
+		display: none;
+	}
+
+	.phone{
+		display: block;
+		width: 100%;
+		margin-top: 50px;
+	}
+
+	.d3-page {
+		font-size: 270%;
+    padding-bottom: 2%;
+	}
+
+	.d3-top {
+		min-height: 50%;
+	}
+		
+	.row {
+  	margin-right: 0;
+ 		margin-left: 0; 
+}
+
+span.my-name{
+	color: grey;
+}
 
 
 }
