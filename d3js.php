@@ -23,9 +23,9 @@
 	<section class="d3-section">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<p>The D3.js JavaScript library has endless possibilities when visualising data. The AlbersUSA D3.js library was perfect for visualising this GeoJSON data rich project.<br><br> 
+				<p>The D3.js JavaScript library has endless possibilities when visualising data. The AlbersUSA D3.js library was perfect for translating this GeoJSON data rich project.<br><br> 
 
-				The main challenge with this project was resizing the states to fit with the brief the UX designer gave me. There is not much documentation on how to do this. In the end I downloaded the library files to the project and changed the size and location coordinates of Alaska and Hawaii myself. You can read my blog post about it <a href="https://medium.com/@amyru1/changing-d3js-albersusa-state-size-de4a6687334d#.f5qs6o3a7">here.</a><br><br> Below are the code snippets of the library that I changed. As you can see it is the sections creting rotation, scale and coordinate position.</p>
+				The main challenge I experienced was resizing the states to fit with the brief the UX designer gave me. There is not much documentation on how to do this. In the end I downloaded the library files to the project root and changed the size and location coordinates of Alaska and Hawaii myself. You can read my blog post about it <a href="https://medium.com/@amyru1/changing-d3js-albersusa-state-size-de4a6687334d#.f5qs6o3a7">here.</a><br><br> Below are the code snippets of the library that I changed. As you can see it is the sections creating rotation, scale and coordinate positions.</p>
 				
 				<script src="https://gist.github.com/amyru/55f20c28e3b6458c00336e98c151ce28.js"></script>
 			</div>
@@ -50,10 +50,11 @@
 			<div class="col-md-10 col-md-offset-1">
 				<h3 class="text-center">Data becomes Color</h3>
 				<hr>
-				<p>The whole map is created using layers of data and assigning color to the coordinates. Even the list of state names is positioned with coordinates.</p>
+				<p>The whole map is created using layers of data and assigning colour to the coordinates. Even the list of state names is positioned with coordinates.</p>
 				<script src="https://gist.github.com/amyru/cfbad4f8f44601a51ab0eb3a959a2a5d.js"></script>
 			</div>
 		</div>
 	</section>    
 
+<?php include('inc/next-page.php'); ?>
 <?php include('inc/footer.php'); ?>

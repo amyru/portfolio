@@ -17,11 +17,11 @@
 	    	<div class="col-md-4 col-md-offset-1">
 				<h3>About the Project</h3>
 				<!-- <hr class="light left"> -->
-				<p>Finasafe is a decentralized email encryption add on for all major email providers. Finasafe uses ECC, ECDH, AES, and SHA to deliver emails securely. Blockchain technology has the power to create a more secure, fairer, more efficient system.</p>
+				<p>Finasafe is a decentralized email encryption add-on for all major email providers. Finasafe uses ECC, ECDH, AES, and SHA to deliver emails securely. Blockchain technology has the power to create a more secure, fairer, more efficient system.</p>
 			</div>
 			<div class="col-md-5 col-md-offset-1">
 				<h3>My role</h3>
-				<p>Within the Privacy Shell Inc. team I designed and built the website. I wanted to incorporate aspects of the beautiful Blockchain architecture into the design. I also wrote the copy for the  website and the scripts and visuals for any videos explaining the Finasafe product to potential customers.</p>
+				<p>Within the Privacy Shell Inc. team I designed and built the website. I wanted to incorporate aspects of the beautiful Blockchain architecture into the design. I also wrote the copy for the website and the scripts and visuals for any videos, explaining the Finasafe product to potential customers.</p>
 	    	
 			</div>
 		</div>
@@ -56,7 +56,7 @@
 			</div>
 			<div class="col-md-5 col-offset-2">
 				<h3>Check out the video on Blockchain Technology</h3><br>
-				<p>This is an animated video for marketing purposes. It offeres an easy explanation of the blockchain to install trust in the Finasafe product. I made use of Powtoon and Sketch when creating this video.</p>
+				<p>This is an animated video for marketing purposes. It offeres an easy explanation of the blockchain to instill trust in the Finasafe product. I made use of Powtoon and Sketch when creating this video.</p>
 				<button type="button" class="btn btn-danger ipad">Watch Video</button>
 			</div>
 		</div>
@@ -70,6 +70,7 @@
 	    	</div>
 	   	</div>
     </section>
-    
+
+<?php include('inc/next-page.php'); ?>   
 
 <?php include('inc/footer.php'); ?>

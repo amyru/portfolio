@@ -33,5 +33,5 @@
 		<img class="img-responsive photo-examples" src="img/photo.png">
     </section>
 
-
+<?php include('inc/next-page.php'); ?>
 <?php include('inc/footer.php'); ?>

@@ -490,13 +490,14 @@ header.topsecret-top {
 
 .ps-ex {
 	width: 100%;
+  margin-bottom: 5%;
 }
 
 /* ex-update*/
 
 .ex-update {
 	/*height: 30%;*/
-	background-color: red;
+	background-color: rgba(220, 13, 13, 0.85);
 	color: white;
 }
 
@@ -671,7 +672,7 @@ div.legend {
 	display: inline;
 }
 .travel-head-image.img-responsive{
-	max-width: none;
+	max-width: 125%;
 }
 
 /* FOOTER */
@@ -907,6 +908,9 @@ div.legend {
 	.travel-img {
 	    width: 100%;
 	    margin-left: 0;
+	}
+	.travel-head-image.img-responsive{
+		max-width: 100%
 	}
 }
 
