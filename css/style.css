@@ -667,6 +667,13 @@ div.legend {
 	padding-left: 3%;
 }
 
+.img-responsive.photo-examples {
+	display: inline;
+}
+.travel-head-image.img-responsive{
+	max-width: none;
+}
+
 /* FOOTER */
 
 #navlist {
@@ -834,7 +841,9 @@ div.legend {
 		font-size: 270%;
     padding-bottom: 2%;
 	}
-
+	.travel-top {
+			height: 50%;
+		}
 
 
 
@@ -873,12 +882,16 @@ div.legend {
 	.row {
   	margin-right: 0;
  		margin-left: 0; 
-}
+	}
 
-span.my-name{
-	color: grey;
-}
+	span.my-name{
+		color: grey;
+	}
 
+	
+	.travel-head-image.img-responsive{
+		margin-top: 0;
+	}
 
 }
 
@@ -895,6 +908,13 @@ span.my-name{
 	    width: 100%;
 	    margin-left: 0;
 	}
+}
+
+@media (min-width: 1439px){
+	.travel-head-image.img-responsive{
+		margin-left: 7%;
+	}
+
 }
 
 /*@media (min-width: 1300px;){

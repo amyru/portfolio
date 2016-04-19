@@ -3,7 +3,7 @@
 	<header class="travel-top">
         <div class="header-content">
             <div class="travel header-content-inner">
-               <img class='travel-head-image' src="img/iphonephoto.png">
+               <img class='travel-head-image img-responsive' src="img/iphonephoto.png">
                 
             </div>
         </div>
@@ -21,7 +21,7 @@
     </section>
 
     <section class="travel-photo">
-		<img src="img/photopage.png">
+		<img class="img-responsive" src="img/photopage.png">
 		<br><br>
     	<h3 class="text-center">Masonry Gem at work here...</h3>
     	<br><br>
@@ -30,7 +30,7 @@
     </section>
 
     <section class="text-center">
-		<img src="img/photo.png">
+		<img class="img-responsive photo-examples" src="img/photo.png">
     </section>
 
 
