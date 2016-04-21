@@ -29,6 +29,10 @@ header {
 	background: grey;
 }
 
+header .header-content .header-content-inner{
+	margin-top: 5%;
+}
+
 header .header-content .header-content-inner h1 {
 	/*font-family: 'Raleway';*/
 	font-weight: lighter;
