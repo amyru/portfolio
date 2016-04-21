@@ -9,7 +9,7 @@
                 <p class="first-p">“All I have learned, I learned from books.”<br>― Abraham Lincoln</p>
                 <p class="first-p">Or in my case Google... I like this simple quote as it stands for continuous self learning.<br>
                 I am a web developer living in Toronto. I am passionate about writing code and the good it can do.<br>
-                I have been lucky enough to travel a lot and have lived in Frankfurt Germany, London, Manchester UK and Dubai UAE. Currently in my free time I do yoga and bake bread.</p>
+                I have been lucky enough to travel the world extensively. I have lived in Frankfurt Germany, London, Manchester UK and Dubai UAE. Currently in my free time I do yoga and bake bread.</p>
                 </div>
                 
                 <a href="#portfolio" class="btn btn-primary btn-xl page-scroll header-btn">Go to Portfolio</a>

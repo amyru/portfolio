@@ -17,11 +17,11 @@
 	    	<div class="col-md-4 col-md-offset-1">
 				<h3>About the Project</h3>
 				<!-- <hr class="light left"> -->
-				<p>Finasafe is a decentralized email encryption add-on for all major email providers. Finasafe uses ECC, ECDH, AES, and SHA to deliver emails securely. Blockchain technology has the power to create a more secure, fairer, more efficient system.</p>
+				<p>Finasafe is a decentralized email encryption add-on for all major email providers. Finasafe uses ECC, ECDH, AES, and SHA to deliver emails securely. This runs on blockchain technology which has the power to create a more secure, fairer and more efficient system.</p>
 			</div>
 			<div class="col-md-5 col-md-offset-1">
 				<h3>My role</h3>
-				<p>Within the Privacy Shell Inc. team I designed and built the website. I wanted to incorporate aspects of the beautiful Blockchain architecture into the design. I also wrote the copy for the website and the scripts and visuals for any videos, explaining the Finasafe product to potential customers.</p>
+				<p>Working within the Privacy Shell Inc. team, I designed and built the website. I wanted to incorporate aspects of the beautiful blockchain architecture into the design. I also acted as Copywriter and Video Editor; creating texts, scripts and visuals for the website and videos.</p>
 	    	
 			</div>
 		</div>
@@ -29,10 +29,10 @@
     </section>
 
     <section class="notes-finasafe">
-		<!-- <div class="row"> -->
+		<div class="row">
 			<div class="exp-block col-md-2 col-md-offset-1">
 				<h3>Blockchain and Email icons</h3>
-				<p>The image represents the Blockchain architecture and the added paper planes are a well known messenger icon.</p>
+				<p>This image represents the Blockchain architecture and the added paper planes are a well known messenger icon.</p>
 				<div class="email-integration">
 					<h3>Easy Email Integration</h3>
 					<p>Here we are showing the ease of integration with variouse email providers.</p>
@@ -42,7 +42,7 @@
 				<img class="fin-image img-responsive" src="img/project/finasafe2.png">
 			</div>
 	
-		<!-- </div> -->
+		</div>
 
     </section>
 
